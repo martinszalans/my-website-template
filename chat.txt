@@ -8,10 +8,20 @@ Lets make a website. This website is consulting company.
 7. All changes, fixes related to frontend you will find under -FRONT END-
 8. All changes, feature etc related to backend, administrator panel you will find under -BACK END-
 9. Before you share any code, tell me detailed how should look my file structure, so I can understand which is folder, which is file, whisch is sub folde or sub file.
-
+10. When I will tell you what features should be in admin panel you must structurize these features in admin panel by your logic.
+11. You must write code logicly when press on menu, link, input etc it must work as it should work
 
 
 -FRONT END-
+   * 
+
+
 
 -BACK END-
+    * In all HTML pages there is company logo, must make that admin can change, delete upload new logo to website. Also when admin will           upload new logo, system must make it in propper size.
+    * I guess this is in header, there is text {Welcome to our Konsal Company Consultation!}, must have option in admin apnel wher admin          can edit, delete, disable this text.
+    * In header there is phone number text {+112 (789) 568 25}, in admin panel there must be option to, change, delete, disable this field.
+    * In header there is field email  {help@gmail.com} in admin panel there should be option to change,edit, disable this field. Also you         must make If client from front side click on this email field, will open email app from clients side.
+    * In header there is field, option to choose website language. By default you should make 2 languages, Main language Norwegian second         language English. In admin panel there should be an option to translate any text which is vailable in frontend in 2 languages,              Norwegian,English. Also you have to make translation system that admin can translate any text which will be available on website any        page.
+    * In header there is socila sites option, FB,Twitter,Instagram,Be. There should be option in admin panel that admin can link his              soclial accounts. Also, he must be able edit, disable, delete any of them.
     * 
